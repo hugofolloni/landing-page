@@ -2,7 +2,7 @@ var nodemailer = require('nodemailer');
 
 const fetch = require("node-fetch");
 
-const api = 'http://localhost:8000/sendTo'
+const api = 'http://localhost:8080/sendTo'
 
 require("dotenv").config();
 
