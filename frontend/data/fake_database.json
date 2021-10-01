@@ -1,0 +1,32 @@
+{
+    "sendTo": [
+      {
+        "email": "hu#####7@gmail.com",
+        "id": 1
+      },
+      {
+        "email": "hu#####a@gmail.com",
+        "id": 2
+      },
+      {
+        "email": "hu#####g@ic.ufrj.br",
+        "id": 3
+      },
+      {
+        "email": "pf#####a@gmail.com",
+        "id": 4
+      },
+      {
+        "email": "pe#####g@gmail.com",
+        "id": 5
+      },
+      {
+        "email": "na#####1@gmail.com",
+        "id": 6
+      },
+      {
+        "email": "wa#####i@gmail.com",
+        "id": 7
+      }
+    ]
+  }
